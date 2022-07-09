@@ -2,7 +2,7 @@
 import re
 from fractions import Fraction
 
-print(''' Hello.!! I can solve any frcations. please enter your expressions separates by space for logical operators.
+print(''' Hello.!! I can solve any fractions. please enter your expressions separates by space for logical operators.
 eg: 2_3/8 + 9/8 (mixed fractions must be given with "_")''')
 print("\nEnter your expression:")
 
