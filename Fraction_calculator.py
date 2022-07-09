@@ -6,7 +6,7 @@ print(''' Hello.!! I can solve any frcations. please enter your expressions sepa
 eg: 2_3/8 + 9/8 (mixed fractions must be given with "_")''')
 print("\nEnter your expression:")
 
-# define variables
+# define variables as required
 x = str(input())
 space = " "
 operands = "*+-"
