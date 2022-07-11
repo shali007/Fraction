@@ -73,7 +73,7 @@ def calculate(x):
         seq += (item)
     global decimal
     decimal = eval(seq)
-    print('Decimal result: {}'.format(decimal))
+    print('result: {}'.format(decimal))
 
 # Function to get decimal value and convert to Fractional result
 def for_fractional(x):
